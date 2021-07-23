@@ -1,0 +1,20 @@
+{
+  "name": "random-phone",
+  "version": "1.0.0",
+  "description": "Generate random & valid regional phone numbers",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development --watch"
+  },
+  "author": "Daniel Bruhn <dbruhn@paypal.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fullstack-phone": "^1.86.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
