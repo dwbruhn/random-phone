@@ -5,8 +5,8 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --mode production",
-    "dev": "webpack --mode development --watch"
+    "build": "webpack --mode production -o docs",
+    "dev": "webpack --mode development -o docs --watch"
   },
   "author": "Daniel Bruhn <dbruhn@paypal.com>",
   "license": "MIT",
