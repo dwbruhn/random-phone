@@ -1,6 +1,6 @@
 {
   "name": "random-phone",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generate random & valid regional phone numbers",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "Daniel Bruhn <dbruhn@paypal.com>",
   "license": "MIT",
   "dependencies": {
-    "fullstack-phone": "^1.86.0"
+    "fullstack-phone": "^1.107.0"
   },
   "devDependencies": {
     "webpack": "^5.46.0",
