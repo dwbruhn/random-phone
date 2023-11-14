@@ -11,7 +11,7 @@
   "author": "Daniel Bruhn <dbruhn@paypal.com>",
   "license": "MIT",
   "dependencies": {
-    "fullstack-phone": "^1.131.0"
+    "fullstack-phone": "^1.140.0"
   },
   "devDependencies": {
     "webpack": "^5.46.0",
